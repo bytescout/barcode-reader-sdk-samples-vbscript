@@ -1,14 +1,14 @@
 ## Index of source code examples:
 
-\Batch Read From Files
-\Code 39 To Excel
-\From PDF
-\From Webcam or Scanner
-\Image Preprocessing Filters
-\Profiles
-\QR Code To Excel
+\Barcode Image Preprocessing Filters
+\Barcode Reading Profiles
+\Batch Read barcodes From Files
+\Read barcode From PDF
+\Read barcode From Webcam or Scanner
+\read Code 39 To Excel
+\Read QR Code To Excel
 \Rename Files To Barcode Values
 \Search Barcodes In Documents And Write Results To File
-\Simple
-\Code 39 To Excel\InputFiles
-\QR Code To Excel\InputFiles
+\Simple barcode reading
+\read Code 39 To Excel\InputFiles
+\Read QR Code To Excel\InputFiles
