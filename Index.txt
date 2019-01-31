@@ -2,6 +2,7 @@
 
 \Barcode Image Preprocessing Filters
 \Barcode Reading Profiles
+\Barcodes to Excel
 \Batch Read barcodes From Files
 \Read barcode From PDF
 \Read barcode From Webcam or Scanner
@@ -10,5 +11,6 @@
 \Rename Files To Barcode Values
 \Search Barcodes In Documents And Write Results To File
 \Simple barcode reading
+\Barcodes to Excel\InputFiles
 \read Code 39 To Excel\InputFiles
 \Read QR Code To Excel\InputFiles
