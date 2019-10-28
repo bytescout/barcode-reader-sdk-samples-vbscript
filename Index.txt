@@ -5,6 +5,7 @@
 \Barcodes to Excel
 \Batch Read Barcodes From Files
 \Read Barcode From PDF
+\Read barcode From PDF With OrientationType
 \Read Barcode From Webcam or Scanner
 \Read Code 39 To Excel
 \Read QR Code To Excel
