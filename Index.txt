@@ -4,6 +4,7 @@
 \Barcode Reading Profiles
 \Barcodes to Excel
 \Batch Read Barcodes From Files
+\Display License Info
 \Read Barcode From PDF
 \Read barcode From PDF With OrientationType
 \Read Barcode From Webcam or Scanner
